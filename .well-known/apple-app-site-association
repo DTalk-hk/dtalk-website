@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["49J657QXL7.com.dtalkpty.dtalk"],
+        "components": [
+          { "/": "/app/*" }
+        ]
+      }
+    ]
+  }
+}
